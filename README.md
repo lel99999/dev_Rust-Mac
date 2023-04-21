@@ -17,3 +17,6 @@ $rustup-init
 $rustc --version
 
 ```
+
+#### IDE
+- [https://lapce.dev/](https://lapce.dev/)
