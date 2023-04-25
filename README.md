@@ -16,13 +16,21 @@ $brew install rustup
 $rustup-init
 $rustc --version
 
-## Create project via cargo
+## Create binary project via cargo (default) which can be compiled to runnable program
 $cargo new testproject
 
 testproject
 |-- Cargo.toml
 |__ src
    |__ main.rs
+
+## Create library project via cargo
+$cargo new --lib testlibproject
+
+testlibproject
+|-- Cargo.toml
+|__ src
+   |__ lib.rs
 
 ```
 
