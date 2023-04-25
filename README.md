@@ -16,6 +16,14 @@ $brew install rustup
 $rustup-init
 $rustc --version
 
+## Create project via cargo
+$cargo new testproject
+
+testproject
+|-- Cargo.toml
+|__ src
+   |__ main.rs
+
 ```
 
 #### IDE
