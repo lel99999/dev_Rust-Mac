@@ -37,3 +37,6 @@ testlibproject
 #### IDE
 - [https://lapce.dev/](https://lapce.dev/) ** Written in Rust
 - [https://github.com/lapce/lapce](https://github.com/lapce/lapce)
+
+#### Rust built browser form Mozilla
+- [https://github.com/servo/servo](https://github.com/servo/servo)
